@@ -21,8 +21,7 @@
 
     <!-- dependencies -->
     <dependency
-        id="org.apache.cordova.device"
-        url="https://github.com/apache/cordova-plugin-device" />
+        id="org.apache.cordova.device"/>
 
     <!-- cordova -->
     <engines>
